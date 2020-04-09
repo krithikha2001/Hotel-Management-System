@@ -1,4 +1,8 @@
 # Hotel-Management-System
+
+[![License: MIT](https://img.shields.io/badge/LICENSE-EPL%202.0-yellowgreen)](https://opensource.org/licenses/EPL-2.0)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
  INTRODUCTION
 HOTEL PHOENIX is a 5 star hotel. This application is designed to serve the purpose as a hotel management system.This application :
 
