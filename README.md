@@ -1,7 +1,7 @@
 # Hotel-Management-System
 
 [![License: EPL2.0](https://img.shields.io/badge/LICENSE-EPL%202.0-yellowgreen)](https://opensource.org/licenses/EPL-2.0)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/LICENSE-EPL2.0-red)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## License
 
